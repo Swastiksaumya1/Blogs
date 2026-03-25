@@ -73,8 +73,8 @@ A modern, full-featured blogging platform built with **React 19**, **Appwrite Cl
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/megablog.git
-cd megablog
+git clone https://github.com/Swastiksaumya1/Blogs.git
+cd Blogs
 ```
 
 ### 2. Install dependencies
@@ -195,5 +195,6 @@ This project is open source and available under the [MIT License](LICENSE).
 ---
 
 <p align="center">
-  Made with ❤️ while learning React from <a href="https://www.youtube.com/@chaborcode">Chai aur Code</a>
+  Made with ❤️ by <strong>Swastik</strong> | Inspired by <a href="https://www.youtube.com/@chaborcode">Chai aur Code</a>
 </p>
+
