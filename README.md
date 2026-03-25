@@ -195,6 +195,6 @@ This project is open source and available under the [MIT License](LICENSE).
 ---
 
 <p align="center">
-  Made with ❤️ by <strong>Swastik</strong> | Inspired by <a href="https://www.youtube.com/@chaborcode">Chai aur Code</a>
+  Made with ❤️ by <strong>Swastik</strong> | Inspired by <a href="https://www.youtube.com/@chaiaurcode">Chai aur Code</a>
 </p>
 
